@@ -7,11 +7,12 @@ The dashboard provides a comprehensive view of **student activity, course fees, 
 
 ## 🖼 Dashboard Preview
 
+<img src="https://github.com/user-attachments/assets/17c2ee7d-cc9a-412e-9b0e-68224d8de5ab" width="800">
+
 <img src="https://github.com/user-attachments/assets/7880313a-9f3a-4794-8407-6f4b9a8ce161" width="800">
 
 <img src="https://github.com/user-attachments/assets/a8d97608-cf1a-465e-8d6c-7f5e680079a5" width="800">
 
-<img src="https://github.com/user-attachments/assets/17c2ee7d-cc9a-412e-9b0e-68224d8de5ab" width="800">
 
 ---
 
